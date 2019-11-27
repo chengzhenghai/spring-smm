@@ -74,8 +74,6 @@
 
     </bean>
 
-
-
     <mybatis:scan base-package="com.czh.demo.dao"/>
     
 </beans>
