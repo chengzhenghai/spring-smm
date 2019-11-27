@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-mvc-mybatis-service" />
+        <module name="spring-mvc-mybatis-web" />
+        <module name="spring-mvc-mybatis-dao" />
+        <module name="spring-mvc-mybatis-entity" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-mvc-mybatis-controller" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
