@@ -40,7 +40,7 @@
         <javax.version>3.1.0</javax.version>
         <spring-test.version>5.2.0.RELEASE</spring-test.version>
         <spring-webmvc>5.2.0.RELEASE</spring-webmvc>
-        <hibernate.validator.version>6.1.0.Final</hibernate.validator.version>
+        <hibernate.validator.version>6.1.5.Final</hibernate.validator.version>
     </properties>
 
     <dependencyManagement>
