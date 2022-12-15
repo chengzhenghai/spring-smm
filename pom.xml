@@ -23,7 +23,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
 
-        <spring.version>5.2.0.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <junit.version>4.12</junit.version>
         <druid.version>1.1.20</druid.version>
         <mybatis.version>3.5.2</mybatis.version>
@@ -39,7 +39,7 @@
         <aspectj.version>1.9.4</aspectj.version>
         <javax.version>3.1.0</javax.version>
         <spring-test.version>5.2.0.RELEASE</spring-test.version>
-        <spring-webmvc>5.2.0.RELEASE</spring-webmvc>
+        <spring-webmvc>5.2.20.RELEASE</spring-webmvc>
         <hibernate.validator.version>6.1.0.Final</hibernate.validator.version>
     </properties>
 
